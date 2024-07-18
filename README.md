@@ -38,4 +38,7 @@ Ensure you have the following installed:
 - Or `npx cypress run --spec cypress\e2e\scenarios\buy_ticket_for_movie.feature` for one Scenery
 
 
-
+### Videos
+- Video WEB: https://drive.google.com/file/d/1Tqho5Ep_sVFWhvyxF5Lho4D9iVmh9XoB/view?usp=sharing
+- Reporte en .ZIP: https://drive.google.com/file/d/1N87wA9ytJxNyvIeIlTGk8AAReXXsn362/view?usp=sharing
+- Video presentación(Contiene ambos videos): https://drive.google.com/file/d/1ECR1m7zHMHldQ1KnaUjONNtPqqgQ0toH/view?usp=sharing
